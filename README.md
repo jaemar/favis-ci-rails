@@ -40,7 +40,7 @@ var favis = new Favis('<username>/<repository>');
 For example, to generate a Favis CI favicon for the Ember.js project, do:
 
 For coffeescript
-```
+```coffeescript
 favis = new Favis('emberjs/ember.js')
 ```
 
