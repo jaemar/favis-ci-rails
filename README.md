@@ -1,6 +1,9 @@
-# Favis::Ci::Rails
+# favis-ci-rails
 
-TODO: Write a gem description
+This is a gem for [jaunesarmiento][jaunesarmiento]'s [favis-ci][lib]
+
+[jaunesarmiento]: https://github.com/jaunesarmiento
+[lib]: https://github.com/jaunesarmiento/favis-ci
 
 ## Installation
 
@@ -18,7 +21,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+You need to add the following  your `application.js` or `application.js.coffee`:
+
+```coffeescript
+#= require favis-ci
+```
 
 ## Contributing
 
