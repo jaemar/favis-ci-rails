@@ -28,7 +28,7 @@ Or install it yourself as:
 # Usage
 
 You need to add the following  your `application.js` or `application.js.coffee`:
-```javascript
+```coffeescript
 #= require favis-ci
 ```
 
