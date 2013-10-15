@@ -1,3 +1,0 @@
-[submodule "app/assets/javascripts/favis-ci"]
-	path = app/assets/javascripts/favis-ci
-	url = git@github.com:jaunesarmiento/favis-ci.git
